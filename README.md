@@ -1,4 +1,4 @@
-# ryana00b.github.io
+# ryan.github.io
 # Ryan Khattab Bsc ETH 
 
 Dieses Projekt ist ein einfaches Portfolio, erstellt mit HTML, CSS und JavaScript.  
