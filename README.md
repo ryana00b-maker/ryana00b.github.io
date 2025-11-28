@@ -1,5 +1,5 @@
 # ryana00b.github.io
-# Mein Portfolio-Projekt
+# Ryan Khattab Bsc ETH 
 
 Dieses Projekt ist ein einfaches Portfolio, erstellt mit HTML, CSS und JavaScript.  
 Es zeigt Bilder nacheinander an, wenn man auf den Button klickt.
